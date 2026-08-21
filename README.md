@@ -23,16 +23,19 @@ Um guia prático, direto ao ponto e orientado a exemplos para ajudar estudantes 
 
 ---
 
-##  Estrutura de Cada Documento
+##  Estrutura de Cada Exemplo de Erro:
 
-Cada arquivo de erro segue a estrutura abaixo:
+Cada exemplo de erro segue a estrutura abaixo:
+
+### ARQUIVO.MD
 
 1. **Sintoma comum:** Como o erro se manifesta.
 2. **O Erro (Exemplo Incorreto):** Descrição e snippet mínimo de código demonstrando a falha.
+3. **Caminho para o arquivo C com a solução**
 
 ### ARQUIVO .C
-3. **A Solução (Exemplo Corrigido):** Snippet com a correção e explicação do porquê funciona.
-4. **Dicas & Prevenção:** Dicas para não cometer o mesmo erro no futuro.
+1. **A Solução (Exemplo Corrigido):** Snippet com a correção e explicação do porquê funciona.
+2. **Dicas & Prevenção:** Dicas para não cometer o mesmo erro no futuro.
 
 ---
 

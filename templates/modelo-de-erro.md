@@ -20,4 +20,4 @@ int main() {
 
 ## COMO CORRIGIR ? 
 
-`caminho para o arquivo do código corrigido`
+* [**ARQUIVO EM C**]'''(./caminho-para-o-arquivo)'''
