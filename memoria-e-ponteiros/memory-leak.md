@@ -1,4 +1,4 @@
----
+
 # Memory Leak (Vazamento de Memoria)
 
 **Sintoma Comum:** Consumo de RAM do programa aumenta continuamente com o tempo ate o sistema travar.
@@ -24,7 +24,8 @@ int main() {
     }
     return 0;
 }
+```
 
 ## COMO CORRIGIR ? 
 
-`memoria-e-ponteiros/memory-leak.c`
+* [**ARQUIVO EM C**](./memory-leak.c)

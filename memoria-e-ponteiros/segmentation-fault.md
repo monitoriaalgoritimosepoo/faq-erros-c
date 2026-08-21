@@ -1,4 +1,4 @@
----
+
 # Segmentation Fault (Falha de Segmentacao)
  
 **Sintoma Comum:** O programa e encerrado abruptamente com a mensagem `Segmentation fault (core dumped)`.
@@ -20,7 +20,8 @@ int main() {
 
     return 0;
 } 
+```
 
 ## COMO CORRIGIR ? 
 
-`memoria-e-ponteiros/segmentation-fault.c`
+* [**ARQUIVO EM C**](./segmentation-fault.c)

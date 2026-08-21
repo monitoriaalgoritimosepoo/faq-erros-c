@@ -16,7 +16,8 @@ int main() {
     // Exemplo incorreto
     return 0;
 }
+```
 
-## ## COMO CORRIGIR ? 
+## COMO CORRIGIR ? 
 
 `caminho para o arquivo do código corrigido`

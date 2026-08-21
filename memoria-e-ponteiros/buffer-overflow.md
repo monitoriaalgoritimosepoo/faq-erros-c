@@ -1,4 +1,4 @@
----
+
 # Buffer Overflow (Estouro de Buffer)
 
 **Sintoma Comum:** Comportamento imprevisivel, valores de variaveis vizinhas sendo alterados "sozinhos" ou crash do programa.
@@ -20,8 +20,8 @@ int main() {
 
     return 0;
 }
-
+```
 
 ## COMO CORRIGIR ? 
 
-`memoria-e-ponteiros/buffer-overflow.c`
+* [**ARQUIVO EM C**](./buffer-overflow.c)
