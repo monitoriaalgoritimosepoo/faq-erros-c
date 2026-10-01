@@ -38,4 +38,5 @@ Cada exemplo de erro segue a estrutura abaixo:
 2. **Dicas & Prevenção:** Dicas para não cometer o mesmo erro no futuro.
 
 ---
-
+##  Mande suas sugestões de erro no e-mail abaixo :
+monitoriaalgoritmosepoo@gmail.com
